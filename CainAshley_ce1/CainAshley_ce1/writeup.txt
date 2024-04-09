@@ -1,0 +1,9 @@
+FreeSound Source URL: https://freesound.org/people/AudioCoffee/sounds/711989/
+
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+I used the Panner object in the Beads library in order to add a slider that controls the input position. Sliding the slider all the way down to a pan value -1 will have the sound playing all the way to the left, and a value of 1 all the way to the right
